@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  },
+  "name": "mint-hackoverflow-main",
+  "description": "<img src=\"Readme Images/WhatsApp Image 2022-03-08 at 11.44.06 PM.jpeg\" alt=\"Banner\" height='440' width='1000'/>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
