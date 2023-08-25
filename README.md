@@ -27,6 +27,8 @@ Mint has a very simple passwordless authentication system that can be used by al
 
 <img src="Readme Images/Screenshot (511).png" alt="Banner" height='300' width='400'/>
 
+## Future Scope
+
 ### TicTac: The Mint Conferencing Platform
 - Patients can connect with their doctors online. 
 - Schizophrenic patients do not have access to group therapy in particular, with online chat-rooms, they will be able to get the support they need.
@@ -44,7 +46,7 @@ Mint has a very simple passwordless authentication system that can be used by al
 - Art therapy can be beneficial for the adolescents using our application as well as the adults. 
 - Art offers a sense of relaxation and accomplishment while engaging the users in a mindful activity.
 
-## Future Scope
+
 ### The Minty Dashboard
 - Data visualisation helps users analyse their activities and helps them to improve / change any habit they are undertaking. It is a compiled report of the different activities and features that the user is using on the app. This report can be used by the user directly or provided to their doctor.
 - The report will contain:
