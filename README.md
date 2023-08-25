@@ -67,5 +67,4 @@ Mint has a very simple passwordless authentication system that can be used by al
 
 <img src="Readme Images/Screenshot (514).png" alt="Banner" height='400' width='600'/>
 
-## Business Model
-<img src="Readme Images/Screenshot (509).png" alt="Banner" height='440' width='1000'/>
+
